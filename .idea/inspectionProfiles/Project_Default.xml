@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="blog.tests.*" />
+          <option value="movie_app.models.django" />
+          <option value="movie_app.views.*" />
+          <option value="movie_app.serializers.*" />
+          <option value="eshop.urls.*" />
+          <option value="views_acc.models.user" />
+          <option value="views_acc.models.django" />
+          <option value="bissness_view.urls.django" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
